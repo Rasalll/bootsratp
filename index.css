@@ -1,0 +1,96 @@
+*{
+   font-family: "Nunito Sans", sans-serif;
+  
+}
+
+.nav-link{
+    border: 1px solid rgba(141, 137, 137, 0.5);
+    margin-left:18px;
+    font-size: 20px;
+    font-weight: 450;
+}
+
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.ex {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    text-shadow: black 3px 3px 3px; 
+}
+.ex p{
+    font-size: 23px;
+    padding-top: 125px;
+    text-shadow: none;
+}
+.card-body{
+    background-color:rgba(240, 238, 231, 0.836);
+    
+}
+
+
+
+.main .container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.main .center{
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    text-shadow: rgb(255, 255, 255) 1px 2px 3px; 
+    
+}
+.main .center p{
+    font-size: 20px;
+    padding-top: 125px;
+    text-shadow: none;
+    margin-top: 60px;
+}
+
+
+
+.scndmain .container {
+    position: relative;
+    text-align: start;
+    color: white;
+}
+.scndmain .centered {
+    position: absolute;
+    top: 90px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    text-shadow: black 2px 2px 2px; 
+}
+.conct{
+    position: absolute;
+    
+}
+
+#bg3{
+    background-image: url(https://img.freepik.com/free-photo/beautiful-nature-landscape-with-mountains-lake_23-2150705972.jpg);
+    background-size: cover;
+     height: 100%;
+     margin-top: 80px;
+     box-sizing: border-box;
+ 
+    
+     
+}
+#btnlast{
+    margin-right: 604px;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
